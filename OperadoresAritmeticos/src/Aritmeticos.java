@@ -31,6 +31,15 @@ int num1,num2,num3, soma ;
 	System.out.println("divisão  é: " + num3);
 	
 	
+	num1 = 0;
+	while (num1 <= 10) {
+		num1++;
+		System.out.println(num1);
+		
+	}
+	
+	
+	
 	
 }
 	
